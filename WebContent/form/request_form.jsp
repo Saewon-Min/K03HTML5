@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>여기는 타이틀</title>
 </head>
 <body>
 	<h2>get/post 방식으로 전송된 폼값 받기</h2>
